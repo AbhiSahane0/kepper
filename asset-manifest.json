@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/AbhiSahane0/kepper/static/css/main.400019fe.css",
+    "main.js": "/AbhiSahane0/kepper/static/js/main.aad63c8f.js",
+    "index.html": "/AbhiSahane0/kepper/index.html",
+    "main.400019fe.css.map": "/AbhiSahane0/kepper/static/css/main.400019fe.css.map",
+    "main.aad63c8f.js.map": "/AbhiSahane0/kepper/static/js/main.aad63c8f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.400019fe.css",
+    "static/js/main.aad63c8f.js"
+  ]
+}
