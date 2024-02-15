@@ -1,0 +1,27 @@
+.add-button {
+  position: relative;
+  left: 420px;
+  padding: 10px;
+  cursor: pointer;
+  border-radius: 50%;
+  color: #7f27ff;
+  border: none;
+  background-color: #fffc9b;
+  font-size: large;
+  bottom: -35px;
+  font-weight: bold;
+}
+
+.delete-button {
+  position: relative;
+  left: 240px;
+  padding: 10px;
+  cursor: pointer;
+  border-radius: 50%;
+  color: #7f27ff;
+  border: none;
+  background-color: #fffc9b;
+  font-size: large;
+  font-weight: bold;
+  top: 10px;
+}

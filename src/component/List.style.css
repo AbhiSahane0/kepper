@@ -1,0 +1,36 @@
+ul {
+  display: inline-block;
+  position: relative;
+  list-style: none;
+  top: 20px;
+  border-radius: 10px;
+  background-color: #9f70fd;
+  color: #fffc9b;
+  left: 85px;
+  min-height: 170px;
+  margin-top: 20px;
+  margin-left: 10px;
+}
+li {
+  background-color: #9f70fd;
+  min-height: 30px;
+}
+
+.title-list {
+  position: relative;
+  font-size: 35px;
+  padding-left: 10px;
+  top: 10px;
+  width: 300px;
+  min-height: 60px;
+}
+
+.note-list {
+  border-radius: 10px;
+  position: relative;
+  padding-left: 10px;
+  font-size: 25px;
+  padding-top: 5px;
+  width: 300px;
+  min-height: 70px;
+}

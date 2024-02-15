@@ -1,0 +1,23 @@
+#root {
+  margin-left: 10px;
+  margin-right: 10px;
+}
+
+.header {
+  margin-top: 10px;
+  width: 1260.24 px;
+  height: 80px;
+  background-color: #9f70fd;
+  border-radius: 10px;
+  box-shadow: 8px 4px 4px 4px #00000040;
+}
+
+.header h1 {
+  background-color: #9f70fd;
+  display: inline-block;
+  position: relative;
+  font-size: 50px;
+  top: 5px;
+  left: 40px;
+  color: #fffc9b;
+}

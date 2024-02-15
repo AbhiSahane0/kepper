@@ -1,0 +1,52 @@
+.note-input {
+  /* display: inline-block; */
+  position: relative;
+  width: 480px;
+  margin: 30px auto 20px auto;
+  padding: 15px;
+  border-radius: 10px;
+  box-shadow: 8px 4px 4px 4px #00000040;
+  background-color: #9f70fd;
+}
+
+.title-input {
+  width: 100%;
+  border: none;
+  padding: 4px;
+  outline: none;
+  font-size: 30px;
+  resize: none;
+  background-color: #9f70fd;
+  color: #fffc9b;
+  font-weight: bold;
+}
+
+.info-input {
+  width: 100%;
+  border: none;
+  padding: 4px;
+  outline: none;
+  font-size: 23px;
+  resize: none;
+  background-color: #9f70fd;
+  color: #fffc9b;
+  padding-bottom: 0px;
+}
+
+::placeholder {
+  color: #fffc9b;
+}
+
+.add-button {
+  position: relative;
+  left: 420px;
+  padding: 10px;
+  cursor: pointer;
+  border-radius: 50%;
+  color: #7f27ff;
+  border: none;
+  background-color: #fffc9b;
+  font-size: large;
+  bottom: -35px;
+  font-weight: bold;
+}
