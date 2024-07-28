@@ -20,7 +20,9 @@ function InputNote(props) {
   }
 
   function handleClick() {
+    if (!note.title) return;
     props.getNote(note);
+    setNote({ title: '', info: '' });
   }
   return (
     <>
