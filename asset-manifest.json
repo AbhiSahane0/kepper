@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/kepper/static/css/main.400019fe.css",
-    "main.js": "/kepper/static/js/main.e49f8f69.js",
+    "main.js": "/kepper/static/js/main.1c65949b.js",
     "index.html": "/kepper/index.html",
     "main.400019fe.css.map": "/kepper/static/css/main.400019fe.css.map",
-    "main.e49f8f69.js.map": "/kepper/static/js/main.e49f8f69.js.map"
+    "main.1c65949b.js.map": "/kepper/static/js/main.1c65949b.js.map"
   },
   "entrypoints": [
     "static/css/main.400019fe.css",
-    "static/js/main.e49f8f69.js"
+    "static/js/main.1c65949b.js"
   ]
 }
