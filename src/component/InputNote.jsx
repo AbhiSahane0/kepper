@@ -20,7 +20,10 @@ function InputNote(props) {
   }
 
   function handleClick() {
-    if (!note.title) return;
+    if (!note.title) {
+      alert('Please Enter Note !');
+      return;
+    }
     props.getNote(note);
     setNote({ title: '', info: '' });
   }
